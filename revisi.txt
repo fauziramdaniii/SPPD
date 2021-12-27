@@ -1,0 +1,6 @@
+-db
+one to one spt sppd
+kolom verif
+
+-app
+split nomor surat
